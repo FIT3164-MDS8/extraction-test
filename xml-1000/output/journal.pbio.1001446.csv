@@ -1,0 +1,8 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+reconstruction,,1.0,2.0,,1.0,5.0
+enzymes,5.0,5.0,36.0,11.0,3.0,4.0
+reveals,,,2.0,,,2.0
+mechanisms,4.0,3.0,,4.0,,
+innovation,2.0,2.0,1.0,,,
+gene,7.0,24.0,5.0,21.0,2.0,1.0
+duplication,4.0,8.0,13.0,21.0,,1.0

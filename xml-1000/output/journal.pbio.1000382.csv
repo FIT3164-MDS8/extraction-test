@@ -1,0 +1,6 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+assignment,1,1.0,5,1.0,,
+maintenance,1,,1,,,
+identity,3,7.0,30,20.0,,1.0
+tube,6,6.0,20,15.0,,2.0
+morphogen,7,7.0,1,15.0,,

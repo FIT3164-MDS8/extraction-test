@@ -1,0 +1,16 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+histone,5.0,4.0,12.0,3.0,1.0,
+h2a,3.0,6.0,18.0,1.0,2.0,6.0
+variant,4.0,,6.0,2.0,,
+bub1,1.0,2.0,17.0,1.0,4.0,
+phosphorylation,1.0,,2.0,1.0,,
+site,1.0,,1.0,1.0,,
+depletion,1.0,,3.0,,,1.0
+foster,,,,1.0,2.0,
+evolvability,1.0,,,,,
+candida,2.0,2.0,,,,
+albicans,3.0,12.0,17.0,4.0,8.0,4.0
+novel,,,,,,
+system,1.0,,1.0,,1.0,
+evolution,,,1.0,1.0,,
+eukaryotes,1.0,2.0,1.0,1.0,,

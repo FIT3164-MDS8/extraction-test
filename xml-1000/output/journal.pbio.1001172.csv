@@ -1,0 +1,6 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+regulation,1,1,1,5.0,,
+functions,3,4,7,10.0,,1.0
+glycoprotein,1,1,2,,,
+function,2,5,6,8.0,,
+cells,9,5,20,7.0,4.0,4.0

@@ -1,0 +1,6 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+histone,2.0,1.0,33.0,17.0,,6.0
+reduction,,2.0,7.0,2.0,,1.0
+modulates,,,,,,
+occupancy,4.0,1.0,60.0,16.0,8.0,8.0
+outputhistone,,,,,,

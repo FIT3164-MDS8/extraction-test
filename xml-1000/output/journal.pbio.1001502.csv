@@ -1,0 +1,7 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+tumor,5,4,1,2,,
+suppressor,3,1,1,1,,
+endocytosis,6,2,35,9,,5.0
+senescence,11,15,40,22,3.0,1.0
+pathway,3,1,5,1,1.0,
+ing1a,12,7,83,15,3.0,10.0

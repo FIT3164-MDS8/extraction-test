@@ -1,0 +1,5 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+attention,14,13,30,23,8.0,8.0
+encoding,3,3,9,3,6.0,
+prediction,11,13,31,28,10.0,5.0
+errors,2,3,6,12,,

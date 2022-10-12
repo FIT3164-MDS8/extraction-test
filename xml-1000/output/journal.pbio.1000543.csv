@@ -1,0 +1,12 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+phenotypic,3.0,1.0,8.0,7.0,,
+consequences,1.0,1.0,1.0,,,
+copy,3.0,2.0,9.0,3.0,,3.0
+number,9.0,1.0,18.0,6.0,,6.0
+variation,4.0,2.0,2.0,2.0,,
+insights,,,,1.0,,
+syndrome,,,,,,
+mouse,2.0,1.0,25.0,7.0,,12.0
+modelsphenotypic,,,,,,
+outcomes,1.0,,,,,
+cnv,,3.0,10.0,4.0,,1.0

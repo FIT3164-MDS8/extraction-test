@@ -1,0 +1,12 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+schlemm,7.0,1.0,,,,
+canal,8.0,1.0,,2.0,,1.0
+vessel,5.0,1.0,11.0,4.0,,3.0
+combination,2.0,,,1.0,,
+blood,6.0,5.0,18.0,4.0,,3.0
+vascular,5.0,1.0,16.0,8.0,,
+phenotypes,4.0,,2.0,1.0,,
+forms,,3.0,1.0,1.0,,
+process,4.0,2.0,2.0,2.0,,
+kdr,2.0,,25.0,5.0,2.0,2.0
+development,8.0,2.0,34.0,10.0,2.0,4.0

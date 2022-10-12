@@ -1,0 +1,12 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+mrna,3.0,19.0,66.0,17.0,6.0,1.0
+association,1.0,3.0,19.0,5.0,2.0,
+trna,4.0,3.0,7.0,5.0,5.0,
+synthetase,2.0,14.0,15.0,2.0,,
+anticodon,1.0,3.0,17.0,5.0,2.0,
+mimic,1.0,2.0,10.0,3.0,1.0,
+translation,3.0,4.0,13.0,11.0,3.0,
+response,,,1.0,1.0,,
+levels,1.0,1.0,17.0,5.0,,1.0
+autoregulates,,1.0,,,,
+element,1.0,,2.0,4.0,,

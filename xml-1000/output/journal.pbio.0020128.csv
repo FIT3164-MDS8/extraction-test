@@ -1,0 +1,8 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+ras,2.0,6.0,14.0,8,,2.0
+mediate,,,3.0,1,,
+branch,,,,5,,
+redundant,,1.0,3.0,5,,
+glucose,7.0,17.0,75.0,31,1.0,4.0
+pathway,1.0,2.0,9.0,14,,
+transcription,,5.0,12.0,15,4.0,

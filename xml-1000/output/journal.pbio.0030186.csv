@@ -1,0 +1,7 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+migration,2.0,2.0,12,8.0,,
+subtype,2.0,1.0,1,5.0,,
+identity,5.0,4.0,2,13.0,,
+telencephalon,1.0,5.0,10,4.0,,1.0
+depend,,,1,2.0,,
+forebrain,,,5,,,

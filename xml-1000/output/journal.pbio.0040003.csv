@@ -1,0 +1,8 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+community,1.0,2.0,3.0,2.0,,
+feces,,5.0,21.0,8.0,,
+prevalence,,,2.0,,,
+plant,4.0,1.0,14.0,12.0,2.0,
+pathogenic,1.0,,1.0,3.0,,
+virusesabundant,,,,,,
+viruses,7.0,17.0,29.0,21.0,4.0,

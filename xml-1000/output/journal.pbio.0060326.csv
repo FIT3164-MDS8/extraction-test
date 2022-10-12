@@ -1,0 +1,6 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+antisense,5,1.0,6.0,3.0,1.0,
+rnas,5,4.0,24.0,9.0,,
+modulate,1,1.0,,3.0,,
+transduction,1,,1.0,3.0,,
+pathway,2,,3.0,,,

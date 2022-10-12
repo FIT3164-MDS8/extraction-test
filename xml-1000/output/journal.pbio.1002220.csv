@@ -1,0 +1,8 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+duplication,10,4.0,34.0,20.0,23.0,
+evidence,3,1.0,3.0,,,
+interspecies,2,,7.0,,,
+hybridization,6,,36.0,,1.0,
+baker,1,1.0,,,,
+yeast,4,6.0,12.0,7.0,1.0,
+lineage,4,4.0,12.0,2.0,1.0,

@@ -1,0 +1,6 @@
+word,abstract_counts,section_1_counts,section_2_counts,section_3_counts,section_4_counts,section_5_counts
+arbovirus,,,3.0,1.0,5.0,5.0
+coinfection,2.0,3.0,14.0,7.0,20.0,7.0
+co-transmission,2.0,,1.0,1.0,35.0,1.0
+health,2.0,3.0,1.0,,,
+concern,1.0,,,,,
